@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/s4/dev/skylords/server'
+let g:netrw_dirhist_2='/home/s4/dev/skylords/server/Master'
+let g:netrw_dirhist_1='/home/s4/dev/skylords/server'
+let g:netrw_dirhist_0='/home/s4/dev/c/musilizer'
+let g:netrw_dirhist_9='/home/s4/dot'
+let g:netrw_dirhist_8='/home/s4'
+let g:netrw_dirhist_7='/home/s4/.vim'
+let g:netrw_dirhist_6='/home/s4/.vim/pack/downloads/opt/vim-shout/ftplugin'
+let g:netrw_dirhist_5='/home/s4/dev/c/snake2D/src'
+let g:netrw_dirhist_4='/home/s4/dev/c/snake2D'
